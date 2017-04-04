@@ -6,8 +6,8 @@ AUTHOR = u'Viral Parekh'
 SITENAME = u'Viral Parekh'
 SITEURL = ''
 
+STATIC_PATHS = ['images', 'pdfs']
 PATH = 'content'
-
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'
@@ -19,20 +19,17 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+DEFAULT_PAGINATION = 20
 
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
-DEFAULT_PAGINATION = 10
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+#pelican-hyde specific
+PROFILE_IMAGE='me.jpg'
+BIO='Research Scholar @IIIT Hyderabad, Maker , Foodie, Pro Gujarati, Chef & Writer in progress.'
+SOCIAL =( ('linkedin','https://www.linkedin.com/in/vparekh1'),
+	  ('twitter', 'https://twitter.com/viralmparekh'),
+          ('facebook', 'https://facebook.com/viral034'),
+          ('github', 'https://github.com/viralparekh'),
+          ('quora', 'https://www.quora.com/profile/Viral-Parekh'),
+	  ('email','viral@live.in'),)
 
 THEME = 'themes/new-bootstrap2'
 NEWEST_FIRST_ARCHIVES = True
