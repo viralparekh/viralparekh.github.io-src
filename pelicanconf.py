@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Viral Parekh'
 SITENAME = u'Viral Parekh'
-SITEURL = 'https://researchweb.iiit.ac.in/~parekh.viral'
-OUTPUT_PATH = '/research/ms/ms2k15/cse/parekh.viral/public_html/'
+SITEURL = 'https://viralparekh.github.io'
+OUTPUT_PATH = '/Users/viral.parekh/work/repos/published_html/'
 STATIC_PATHS = ['images', 'pdfs']
 PATH = 'content'
 TIMEZONE = 'Europe/Paris'
@@ -23,7 +23,7 @@ DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-THEME = '/research/ms/ms2k15/cse/parekh.viral/site_builder/themes/pelican-hyde'
+THEME = '/Users/viral.parekh/work/repos/Portfolio_PelicanHyde/themes/pelican-hyde'
 NEWEST_FIRST_ARCHIVES = True
 
 #pelican-hyde specific

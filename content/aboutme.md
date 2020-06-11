@@ -10,7 +10,7 @@ Besides my research work, I have developed a web based internal training portal 
 I have worked as __Software Engineer at Samsung Research Institute,__ Noida(India) for 2 years. I have worked on Android Telephony Framework, Radio Interface Layer(RIL) ,
 Analyzing/Resolving problems related to Call, Network Registration, Messages etc
 
-I have also published several android applications on [Google Play Store](https://play.google.com/store/apps/developer?id=VPDevelpers){:target="_blank"} with total __3,00,000+ downloads__.
+I have also published several android applications on [Google Play Store](https://play.google.com/store/apps/developer?id=VPDevelpers){:target="_blank"} with total __150000+ downloads__.
 
 I am also interested in IOT (Internet of Things) based applications. I have worked on a prototype version of [Home Automation](https://www.youtube.com/watch?v=_4GONfWZHNA){:target="_blank"} system as a hobby project.
 

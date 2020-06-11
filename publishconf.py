@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://research.iiit.ac.in/~parekh.viral'
+SITEURL = 'https://viralparekh.github.io'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

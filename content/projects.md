@@ -38,17 +38,3 @@ This is Active content recognition software. This consists of two parts. A Clien
 <hr>
 
 </ol>
-
-###HOBBY PROJECTS
-
-<ol>
-<li><b>Home automation system using Raspberry PI</b></li>
-<ul>
-<li>Platform: Python and C++</li>
-<li>Hardware: Raspberry PI</li>
-</ul>
-Link <a href='https://www.youtube.com/watch?v=_4GONfWZHNA'> Youtube Video </a>
-<hr>
-
-
-</ol>
