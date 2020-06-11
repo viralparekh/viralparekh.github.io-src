@@ -5,7 +5,37 @@ Author: Viral Parekh
 
 
 <div class="timeline">
-  <div class="entry">
+
+
+ <div class="entry">
+    <div class="title">
+      <h3>Jul 2018 - Present</h3>
+      <p>Data Scientist,</br>Flipkart</p>
+    </div>
+    <div class="body">
+    <ul>
+    <li> Working with Catalog team for building Machine Learning based solutions to automate
+quality and compliance checks on seller data as well as product image enhancement.</li>
+    </ul>
+    </div>
+  </div>
+
+
+   <div class="entry">
+    <div class="title">
+      <h3>Jan 2018 - May 2018</h3>
+      <p>Intern Analyst, </br>Goldman Sachs</p>
+    </div>
+    <div class="body">
+    <ul>
+    <li> Worked on automation of IG boand origination. </li>
+    </ul>
+    </div>
+  </div>
+
+
+
+  <!-- <div class="entry">
     <div class="title">
       <h3>Aug 2015 - Present</h3>
       <p>Research Assistant,</br>CVIT Lab, IIIT Hyderabad</p>
@@ -16,7 +46,7 @@ Author: Viral Parekh
        <li> Admin of a GPU Cluster(12 Nvidia TitenX, Nvidia Tesla K40)</li>
      	</ul>
      </div>
-  </div>
+  </div> -->
   
   <div class="entry">
     <div class="title">
@@ -51,7 +81,7 @@ and Sprin
     </div>
     <div class="body">
     <ul>
-    <li>Implemented a channel finder application in OpenCV.</li></br>
+    <li>Implemented a channel finder application in OpenCV for Android Smart TV</li></br>
     <li>Developed a prototype to demonstrate the working of grid navigation User Interface using Kinect
     </li>
     </ul>
